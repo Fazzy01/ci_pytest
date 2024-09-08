@@ -7,4 +7,4 @@ def inc(x):
 
 # it must start with test before pytest can see it..
 def test_answer():
-    assert inc(3) == 5
+    assert inc(4) == 5
